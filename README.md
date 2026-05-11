@@ -8,7 +8,7 @@ In this work, we propose an end-to-end framework that jointly integrates graph-b
 
 ## Our Proposed Architecture (EgoHAnG)
 
-![Method Pipeline](Architecture_IMG/EgoCAMRA_v6.png)
+![Method Pipeline](Architecture_IMG/EOAFE_Diagram_v1.pdf)
 
 1. Multimodal Feature Extraction and Fusion
    RGB frames and optical flow are processed using a pretrained ResNet-50 backbone, and their features are fused at the feature level to obtain a unified multimodal representation for each frame.
