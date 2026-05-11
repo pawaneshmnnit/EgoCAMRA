@@ -17,3 +17,6 @@ we propose a multimodal graph-based framework EgoCAMRA (Egocentric Confidence-Aw
 2. We construct a Sparse Temporal Similarity Graph (STSG) over enhanced multimodal features using combined feature-level and object-aware similarity with k-NN sparsification for efficient temporal graph modeling.
 3.  We propose a Confidence-Aware Residual Random Walk (CARRW) that selectively refines multi-label predictions by preserving high-confidence ones while updating uncertain ones, naturally extended to parameter-free action anticipation.
 4. We extensively evaluate our framework on three egocentric datasets EPIC-Kitchens, ADL, and Charades. Our method achieves superior performance compared to state-of-the-art approaches in both action recognition and action anticipation.
+
+## Experimental Results
+![Method Pipeline](Architecture_IMG/Anticipation_Result_EPIC_EgoCAMRA.png)
